@@ -1,7 +1,7 @@
 <h1>
   Bem-vindo(a) ao meu github ⭐
   <br />
-  Me chamo Pedro, e sou Desenvolvedor Web FullStack
+  Me chamo Pedro, e sou Desenvolvedor Web
 </h1>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
